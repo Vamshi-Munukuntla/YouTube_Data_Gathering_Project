@@ -71,7 +71,7 @@ def download_data(df, file_name):
 
 def sidebar():
     st.sidebar.subheader("YouTube Data Gathering Web App")
-    st.sidebar.write('Your favorite youtube channel data is just a click away.')
+    st.sidebar.markdown('##### *Your favorite youtube channel data is just a click away.*')
     st.sidebar.divider()
     st.sidebar.markdown('Source code can be found [here](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project)')
     st.sidebar.markdown('**Tutorial to create this app can be found** [here](your_tutorial_link)')
