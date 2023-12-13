@@ -1,1 +1,1 @@
-# YouTube Data Gathering Project using YouTube API
+# Data Gathering Project using YouTube API
