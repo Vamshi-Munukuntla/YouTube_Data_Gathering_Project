@@ -86,7 +86,7 @@ The project simplifies the extraction of YouTube channel data through a user-fri
 Acknowledges the use of the YouTube API and any other external libraries or resources that contributed to the project.
 
 ## Contributors
-(Vamshi Munukuntla)[https://github.com/Vamshi-Munukuntla]
+[Vamshi Munukuntla](https://github.com/Vamshi-Munukuntla)
 
 
 
