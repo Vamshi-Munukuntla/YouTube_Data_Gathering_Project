@@ -2,7 +2,7 @@
 ### *Get any YouTube channel data (worldwide) with just a single click* *
 Web App - https://youtube-data-gathering-project.streamlit.app/
 
-[Web App](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/blob/main/project_screenshot.png)
+![Web App](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/blob/main/project_screenshot.png)
 
 
 ## Project Description
