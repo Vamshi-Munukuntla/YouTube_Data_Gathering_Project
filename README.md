@@ -7,16 +7,11 @@ Web App - https://youtube-data-gathering-project.streamlit.app/
 
 ![project_screenshot_white_background](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/5fa29ffd-7027-4241-bd56-ee375e280f38)
 
-
-
-
-## Project Description
+## ![3528062](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/9691aad3-aff1-4e7d-b3be-31d4d1091edd)Project Description
 
 The project focuses on leveraging the YouTube API to collect comprehensive data on channels globally. A user-friendly Streamlit web app was developed, enabling users to input their API key and channel ID for seamless retrieval and download of channel-specific data in CSV format.
 
-
-
-## Objectives
+## 🎯Objectives
 
 1. Streamline the process of extracting key statistics and metadata from YouTube channels.
 2. Develop an interactive web app for users to retrieve and download channel data using their API key and channel ID.
