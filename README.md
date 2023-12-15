@@ -7,7 +7,7 @@ Web App - https://youtube-data-gathering-project.streamlit.app/
 
 ![project_screenshot_white_background](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/5fa29ffd-7027-4241-bd56-ee375e280f38)
 
-## ![3528062](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/9691aad3-aff1-4e7d-b3be-31d4d1091edd)Project Description
+## 📄Project Description
 
 The project focuses on leveraging the YouTube API to collect comprehensive data on channels globally. A user-friendly Streamlit web app was developed, enabling users to input their API key and channel ID for seamless retrieval and download of channel-specific data in CSV format.
 
@@ -23,7 +23,7 @@ The project focuses on leveraging the YouTube API to collect comprehensive data 
 Utilized the YouTube API, specifically the Channels, PlaylistItems, and Videos endpoints, to collect relevant data on channels, playlists, and videos.
 
 
-## Tools and Technologies
+## 🛠Tools and Technologies⚙
 
 1. Python Environment
 2. YouTube API
@@ -38,7 +38,7 @@ Utilized the Channels endpoint to extract channel statistics like total views, t
 Additionally, extracted the uploads playlist ID for each channel and then retrieved video meta data for every video from the playlist.
 
 
-## Data Cleaning
+## 🧹Data Cleaning
 The API provides data in JSON format, with relevant information nested within dictionaries.
 Retrieving this data required careful navigation through nested structures.
 
@@ -46,12 +46,12 @@ The `get()` method was enmployed to handle potential errors, and `try` and `exce
 
 Separate functions were created for Channels, PlaylistItems, and VideoIds to enhance code readability and facilitate error detection.
 
-## Data Analysis
+## 🔎 Data Analysis
 
 Utilized PlaylistItems to retrieve video IDs associated with each channel's upload playlist.
 Subsequently, used the Videos endpoint to fetch comprehensive video matadata such as video title, description, published date, tags, duration, views, likes, favorites, and comments
 
-## Exception Handling
+## 🤕Exception Handling
 
 Robust exception handling using try and except blocks for scenarios such as 
 1. No API Key
@@ -61,11 +61,11 @@ Robust exception handling using try and except blocks for scenarios such as
 5. Channel with no videos
 
 
-## Results
+## ✔Results
 Transformed the gathered data into a structured Pandas DataFrame, making it easy to analyze and manipulate. This data serves as a comprehensive snapshot of a given YouTube channel's content and engagement.
 
 
-## Challenges
+## 🎁Challenges
 
 **Data Retrieval Limitations**: The YouTube API limits data retrieval to a maximum of 50 items at a time.
 
@@ -74,7 +74,7 @@ Transformed the gathered data into a structured Pandas DataFrame, making it easy
 **Dynamic While Loop**: Implemented a dynamic `while` loop to handle varying item counts during data retrieval.
 
 
-## Future Improvements
+## 🏗 Future Improvements
 
 Consider enhancements such as incorporating additional YouTube API features, optimizing data retrieval processes, or expanding the web app's functionality to handle multiple channels simultaneously.
 
@@ -84,10 +84,10 @@ Organized the project code into a clear and modular structure. Functions for Cha
 ## Conclusion
 The project simplifies the extraction of YouTube channel data through a user-friendly web app, providing valuable insights into channel performance and content engagement. The implementation of exception handling ensures a smooth user experience, even in the face of potential API limitations and errors.
 
-## Acknowledgments
+## 🙌Acknowledgments
 Acknowledges the use of the YouTube API and any other external libraries or resources that contributed to the project.
 
-## Contributors
+## 🙌🤝🏼Contributors
 [Vamshi Munukuntla](https://github.com/Vamshi-Munukuntla)
 
 
