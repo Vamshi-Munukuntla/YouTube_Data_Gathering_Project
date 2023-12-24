@@ -40,6 +40,13 @@ https://youtube-data-gathering-project.streamlit.app/
 ![Slide4](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/21699c2b-c485-4df8-bd0f-7e2a956f694f)
 
 
+## Project Setup
+
+![Slide9](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/33deb9d5-5f9b-486b-acb5-194dc26a33ef)
+
+![Slide10](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/721f66e1-e3b8-434b-a7e9-3ef59eae92dd)
+
+
 ## Methodology
 
 1. Utilized the YouTube API, specifically the Channels, PlaylistItems, and Videos endpoints, to collect relevant data on channels, playlists, and videos.
@@ -49,12 +56,15 @@ https://youtube-data-gathering-project.streamlit.app/
 3. Additionally, extracted the uploads playlist ID for each channel and then retrieved video meta data for every video from the playlist.
 
 ![Slide11](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a845f854-856b-4131-9ead-6b41e80e4077)
+![Slide12](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/e1c53527-d4f7-445e-9833-e4513a94f301)
+![Slide13](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/bd6d0f0a-9dcc-4d41-a8e8-5743d95a7a55)
+![Slide14](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a64ced12-6289-4fdb-8ed6-f4485b8198c5)
 
 
 ## 🧹Data Cleaning
 1. The API provides data in JSON format, with relevant information nested within dictionaries. Retrieving this data required careful navigation through nested structures.
 
-2. The `get()` method was enmployed to handle potential errors, and `try` and `except` blocks were strategically implemented for error handling.
+2. The `get()` method was employed to handle potential errors, and `try` and `except` blocks were strategically implemented for error handling.
 
 3. Dedicated functions were crafted for Channels, PlaylistItems, and VideoIds to enhance code readability and facilitate error detection.
 
