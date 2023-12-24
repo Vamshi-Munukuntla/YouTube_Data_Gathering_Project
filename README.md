@@ -31,6 +31,9 @@ Utilized the YouTube API, specifically the Channels, PlaylistItems, and Videos e
 4. Pandas for data manipulation
 5. Jupyter Notebooks for initial testing
 
+![Slide4](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/21699c2b-c485-4df8-bd0f-7e2a956f694f)
+
+
 ## Data Exploration
 
 Utilized the Channels endpoint to extract channel statistics like total views, total subscribers, and total number of videos uploaded.
