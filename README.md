@@ -17,6 +17,8 @@ The project focuses on leveraging the YouTube API to collect comprehensive data 
 2. Develop an interactive web app for users to retrieve and download channel data using their API key and channel ID.
 3. Create instructional videos to guide students in obtaining API Key and Channel ID's.
 
+![Slide2](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/6c465e26-49a0-4f3c-98bc-53f74dc5449a)
+
 
 ## Data Source
 
@@ -28,11 +30,13 @@ Utilized the YouTube API, specifically the Channels, PlaylistItems, and Videos e
 ![Slide4](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/21699c2b-c485-4df8-bd0f-7e2a956f694f)
 
 
-## Data Exploration
+## Methodology
 
 Utilized the Channels endpoint to extract channel statistics like total views, total subscribers, and total number of videos uploaded.
 
 Additionally, extracted the uploads playlist ID for each channel and then retrieved video meta data for every video from the playlist.
+
+![Slide11](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a845f854-856b-4131-9ead-6b41e80e4077)
 
 
 ## 🧹Data Cleaning
