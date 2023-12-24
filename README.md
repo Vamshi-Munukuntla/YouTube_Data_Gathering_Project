@@ -47,11 +47,6 @@ The `get()` method was enmployed to handle potential errors, and `try` and `exce
 
 Separate functions were created for Channels, PlaylistItems, and VideoIds to enhance code readability and facilitate error detection.
 
-## 🔎 Data Analysis
-
-Utilized PlaylistItems to retrieve video IDs associated with each channel's upload playlist.
-Subsequently, used the Videos endpoint to fetch comprehensive video matadata such as video title, description, published date, tags, duration, views, likes, favorites, and comments
-
 ## 🤕Exception Handling
 
 Robust exception handling using try and except blocks for scenarios such as 
