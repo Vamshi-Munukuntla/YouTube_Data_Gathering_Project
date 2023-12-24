@@ -2,22 +2,21 @@
 #### *Get any YouTube channel data (worldwide) with just a single click* *
 
 </br>
-</br>
 
 ## **Step-by-Step tutorial to create this project from scratch**
-https://youtube-data-gathering-project.streamlit.app/
+[![YouTube API Key](https://res.cloudinary.com/marcomontalbano/image/upload/v1703402736/video_to_markdown/images/youtube--bW-FytTQse4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bW-FytTQse4?feature=shared "YouTube API Key")
 
-</br>
 </br>
 
 ### **Web App**
 https://youtube-data-gathering-project.streamlit.app/
 
 </br>
-</br>
 
 ### **Demo**
-https://youtube-data-gathering-project.streamlit.app/
+[![YouTube API Key](https://res.cloudinary.com/marcomontalbano/image/upload/v1703402736/video_to_markdown/images/youtube--bW-FytTQse4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bW-FytTQse4?feature=shared "YouTube API Key")
+
+</br>
 
 ## Overview:
 
