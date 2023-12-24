@@ -1,8 +1,8 @@
 # YouTube API Data Gathering using Streamlit Web App
 #### *Get any YouTube channel data (worldwide) with just a single click* *
-Web App - https://youtube-data-gathering-project.streamlit.app/
+> Web App - https://youtube-data-gathering-project.streamlit.app/
 
-===
+---
 
 ## Overview:
 
