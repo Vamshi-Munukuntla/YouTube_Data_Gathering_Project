@@ -1,9 +1,9 @@
-# YouTube API Data Gathering using Streamlit Web App
+# Data Analytics Project using YouTube API & Streamlit Web App
 #### *Get any YouTube channel data (worldwide) with just a single click* *
 
 </br>
 
-## **Step-by-Step tutorial to create this project from scratch**
+## **YouTube Tutorial - Step by Step Guide to create this project**
 [![YouTube API Key](https://res.cloudinary.com/marcomontalbano/image/upload/v1703402736/video_to_markdown/images/youtube--bW-FytTQse4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bW-FytTQse4?feature=shared "YouTube API Key")
 
 </br>
@@ -18,7 +18,7 @@ https://youtube-data-gathering-project.streamlit.app/
 
 </br>
 
-## Overview:
+## Overview
 
 ![project_screenshot_white_background](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/5fa29ffd-7027-4241-bd56-ee375e280f38)
 
@@ -31,19 +31,15 @@ https://youtube-data-gathering-project.streamlit.app/
 
 ![Slide2](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/6c465e26-49a0-4f3c-98bc-53f74dc5449a)
 
+
 ## 🛠Tools and Technologies⚙
 
-![Slide4](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/21699c2b-c485-4df8-bd0f-7e2a956f694f)
+![tech stack](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/69f622ce-d473-4d17-82ba-30df75b9221a)
 
 
 ## Project Setup
 
-![Slide9](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/33deb9d5-5f9b-486b-acb5-194dc26a33ef)
-
-![Slide10](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/721f66e1-e3b8-434b-a7e9-3ef59eae92dd)
-
-![project_setup 2](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/2b60041a-018e-4271-82f0-6558227fd5b6)
-
+![Presentation Deck](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/6a606403-be2b-4fed-8982-7c5ee9b59455)
 
 
 ## Methodology
@@ -59,7 +55,7 @@ https://youtube-data-gathering-project.streamlit.app/
 
 2. The `get()` method was employed to handle potential errors, and `try` and `except` blocks were strategically implemented for error handling.
 
-3. Dedicated functions were crafted for Channels, PlaylistItems, and VideoIds to enhance code readability and facilitate error detection.
+3. Dedicated functions were crafted for Channels, Playlist Items, and VideoIds to enhance code readability and facilitate error detection.
 
 ## 🤕Exception Handling
 
@@ -97,18 +93,10 @@ The project simplifies the extraction of YouTube channel data through a user-fri
 ## 🙌Acknowledgments
 Acknowledges the use of the YouTube API and any other external libraries or resources that contributed to the project.
 
-## 🙌🤝🏼Contributors
+## 🤝🏼Contributors
 [Vamshi Munukuntla](https://github.com/Vamshi-Munukuntla)
-
-
 
 
 ####
 *After provided proper API Key and YouTube Channel ID.
-
-
-
-
-
-
 
