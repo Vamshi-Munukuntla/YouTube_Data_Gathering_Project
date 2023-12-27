@@ -3,7 +3,7 @@
 
 </br>
 
-## **YouTube Tutorial - Step by Step Guide to create this project**
+## **YouTube Tutorial - Step by Step guide to create this project**
 [![YouTube API Key](https://res.cloudinary.com/marcomontalbano/image/upload/v1703402736/video_to_markdown/images/youtube--bW-FytTQse4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bW-FytTQse4?feature=shared "YouTube API Key")
 
 </br>
@@ -13,7 +13,7 @@ https://youtube-data-gathering-project.streamlit.app/
 
 </br>
 
-## **Demo**
+## **How to use this app**
 [![YouTube API Key](https://res.cloudinary.com/marcomontalbano/image/upload/v1703402736/video_to_markdown/images/youtube--bW-FytTQse4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bW-FytTQse4?feature=shared "YouTube API Key")
 
 </br>
