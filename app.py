@@ -79,22 +79,22 @@ def sidebar():
     st.sidebar.markdown('Made by [Vamshi Munukuntla](https://www.linkedin.com/in/vamshi-kumar87/)')
 
 
-# def faqs():
-#     st.subheader("FAQ's")
-#
-#     faq_data = {
-#         "**Step-by-Step tutorial to create this app**": "",
-#         "How to get YouTube API Key": "",
-#         "How to get YouTube Channel ID": ""
-#     }
-#
-#     for question, video_link in faq_data.items():
-#         with st.expander(question):
-#             st.video(video_link)
+def faqs():
+    st.subheader("FAQ's")
+
+    faq_data = {
+        "**Step-by-Step tutorial to create this app**": "https://youtu.be/8x5LsN4T3L0",
+        "How to get YouTube API Key": "https://youtu.be/8x5LsN4T3L0",
+        "How to get YouTube Channel ID": "https://youtu.be/k6ufmqtiEJU"
+    }
+
+    for question, video_link in faq_data.items():
+        with st.expander(question):
+            st.video(video_link)
 
 
 if __name__ == '__main__':
-    st.title("YouTube Data Gathering Project")
+    st.title("Data Analytics Project using YouTube API")
     st.markdown('##### *Get any YouTube channel data in a matter of seconds.*')
 
     sidebar()
@@ -107,4 +107,4 @@ if __name__ == '__main__':
             download_data(df, df.loc[0, 'channel_title'])
 
     st.text("\n"*3)
-    # faqs()
+    faqs()
