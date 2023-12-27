@@ -31,18 +31,19 @@ https://youtube-data-gathering-project.streamlit.app/
 
 ![Slide2](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/6c465e26-49a0-4f3c-98bc-53f74dc5449a)
 
+## 🛠Tools and Technologies
 
-## 🛠Tools and Technologies⚙
+- Python
+- YouTube API
+- Pandas
+- Streamlit
 
-![tech stack](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/69f622ce-d473-4d17-82ba-30df75b9221a)
-
-
-## Project Setup
+## ⚙Project Setup
 
 ![Presentation Deck](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/6a606403-be2b-4fed-8982-7c5ee9b59455)
 
 
-## Methodology
+## 🔄Methodology
 
 ![Slide11](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a845f854-856b-4131-9ead-6b41e80e4077)
 ![Slide12](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/e1c53527-d4f7-445e-9833-e4513a94f301)
@@ -84,14 +85,8 @@ Transformed the gathered data into a structured Pandas DataFrame, making it easy
 
 Consider enhancements such as incorporating additional YouTube API features, optimizing data retrieval processes, or expanding the web app's functionality to handle multiple channels simultaneously.
 
-## Code Structure
-Organized the project code into a clear and modular structure. Functions for Channels, PlaylistItems, and VideoIds were created for readability and ease of error detection. Detailed comments and documentation within the code for ease of understanding.
-
 ## Conclusion
 The project simplifies the extraction of YouTube channel data through a user-friendly web app, providing valuable insights into channel performance and content engagement. The implementation of exception handling ensures a smooth user experience, even in the face of potential API limitations and errors.
-
-## 🙌Acknowledgments
-Acknowledges the use of the YouTube API and any other external libraries or resources that contributed to the project.
 
 ## 🤝🏼Contributors
 [Vamshi Munukuntla](https://github.com/Vamshi-Munukuntla)
