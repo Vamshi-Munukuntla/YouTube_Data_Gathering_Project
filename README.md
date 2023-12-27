@@ -47,7 +47,7 @@ https://youtube-data-gathering-project.streamlit.app/
 
 ![Slide11](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a845f854-856b-4131-9ead-6b41e80e4077)
 ![Slide12](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/e1c53527-d4f7-445e-9833-e4513a94f301)
-![Slide13](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/bd6d0f0a-9dcc-4d41-a8e8-5743d95a7a55)
+![playlist_endpoint white](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/64f6cedc-5a53-4c2c-9fa2-026e45d00159)
 ![Slide14](https://github.com/Vamshi-Munukuntla/YouTube_Data_Gathering_Project/assets/100301262/a64ced12-6289-4fdb-8ed6-f4485b8198c5)
 
 
